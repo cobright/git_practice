@@ -1,2 +1,3 @@
 # git_practice
-git 실습 공간
+git과 github 실습 공간
+작성일자: 2024.4.28
